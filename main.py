@@ -14,7 +14,7 @@ print("")
 
 #print( dicc['tel']['cel'] )
 
-diccRel = {}
+diccRel = {} 
 
 diccRel['A']={'B':5,'C':3}
 diccRel['B']={'A':5,'C':2,'D':4}
